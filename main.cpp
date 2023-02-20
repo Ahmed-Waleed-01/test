@@ -16,7 +16,7 @@ int main() {
     int t = 1;
     //cin>>t;
     while (t--) {
-
+        cout<<"Hello World"<<endl;
     }
 
     return 0;
